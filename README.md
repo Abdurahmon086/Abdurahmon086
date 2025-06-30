@@ -15,9 +15,9 @@ I'm a passionate developer who builds fast, scalable, and modern web application
 
 ## 📫 Contact Me
 
-- Telegram: [@yourtelegram](https://t.me/alibaba0086)
+- Telegram: [@alibaba0086](https://t.me/alibaba0086)
 - Email: t.abdurahmon047@gmail.com
-- LinkedIn: [*coming soon*](https://www.linkedin.com/in/abdurahmon-turdaliyev-15639428b/)
+- LinkedIn: [Abdurahmon](https://www.linkedin.com/in/abdurahmon-turdaliyev-15639428b/)
 
 ---
 
